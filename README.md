@@ -63,15 +63,14 @@ const mahnoor = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d1117" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d1117" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -125,10 +124,6 @@ const mahnoor = {
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=syedamahnoor-sm&label=Profile%20Views&color=6d28d9&style=flat-square)
 
 <br/>
 
