@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Developer GIF -->
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--girl-lady-woman-pack-business-illustrations-4540306.png" width="380" />
+<img src="https://github.com/saasify/assets/raw/master/features/feature-1.gif" width="380" />
 
 <br/><br/>
 
