@@ -15,8 +15,6 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4ade80?style=flat-square)
 
-<br/><br/>
-
 <!-- Social Links -->
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6d28d9?style=for-the-badge&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
