@@ -48,35 +48,12 @@ const mahnoor = {
 
 <div align="center">
 
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
-<br/>
-<sub><b>React &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; Tailwind CSS</b></sub>
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
-<br/>
-<sub><b>Node.js &nbsp;&nbsp;&nbsp; Express.js &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Postman</b></sub>
-
-<br/><br/>
-
-### 🤖 AI / Data Science <sub>(Learning)</sub>
-
-<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" />
-<br/>
-<sub><b>Python &nbsp;&nbsp;&nbsp; Jupyter Notebook</b></sub>
-
-<br/><br/>
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
-<br/>
-<sub><b>Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render</b></sub>
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,figma&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" /> |
+| **AI/Data** | <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" /> |
 
 </div>
 
