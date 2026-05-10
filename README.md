@@ -1,20 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syeda%20Mahnoor&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Explorer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="welcome" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Syeda+Mahnoor" alt="name" />
 
----
-
-<div align="center">
-
-### ✦ Building modern web apps while growing into Data Science, Generative AI & intelligent systems ✦
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Exploring+AI+%26+Data+Science;Building+intelligent+web+systems" alt="roles" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-syeda--mahnoor-6d28d9?style=for-the-badge&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-syeda--mahnoor--sm-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6d28d9?style=for-the-badge&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedamahnoor9e@gmail.com)
 
 </div>
@@ -37,36 +33,45 @@ const mahnoor = {
 - 🌱 Actively learning **Python, Machine Learning & LLM integrations**
 - 💡 I love turning complex problems into clean, elegant solutions
 - 🎯 Goal: Bridge the gap between **robust web engineering** and **intelligent systems**
-- 📫 Let's connect → [LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm) | [Portfolio](https://syeda-mahnoor-portfolio-nine.vercel.app/)
+- 📫 Let's connect → [LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm) | [Portfolio](https://syeda-mahnoor-portfolio-nine.vercel.app)
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+<br/>
+<sub><b>React &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; Tailwind CSS</b></sub>
+
+<br/><br/>
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI / Data Science (Learning)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+<br/>
+<sub><b>Node.js &nbsp;&nbsp;&nbsp; Express.js &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Postman</b></sub>
+
+<br/><br/>
+
+### 🤖 AI / Data Science <sub>(Learning)</sub>
+
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" />
+<br/>
+<sub><b>Python &nbsp;&nbsp;&nbsp; Jupyter Notebook</b></sub>
+
+<br/><br/>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
+<br/>
+<sub><b>Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render</b></sub>
+
+</div>
 
 ---
 
@@ -101,7 +106,7 @@ const mahnoor = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **🌐 Portfolio Website** | Personal portfolio with smooth animations & responsive design | React, Tailwind, Vercel | [Live →](https://syedamahnoor-sm-portfolio-nine.vercel.app) |
+| **🌐 Portfolio Website** | Personal portfolio with smooth animations & responsive design | React, Tailwind, Vercel | [Live →](https://syeda-mahnoor-portfolio-nine.vercel.app) |
 | **🚧 Project 2** | *(Add your project description here)* | *(Your stack)* | [Repo →](#) · [Live →](#) |
 | **🚧 Project 3** | *(Add your project description here)* | *(Your stack)* | [Repo →](#) · [Live →](#) |
 
@@ -132,8 +137,8 @@ const mahnoor = {
 
 ### 💬 Let's Build Something Great Together
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://syedamahnoor-sm-portfolio-nine.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedamahnoor-sm-sm)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
 
 <br/>
 
@@ -141,6 +146,6 @@ const mahnoor = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%92%9C;Let's+build+something+great+together!" alt="footer" />
 
 </div>
