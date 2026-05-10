@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--girl-lady-woman-pack-business-illustrations-4540306.png" width="380" />
 
 <br/><br/>
 
