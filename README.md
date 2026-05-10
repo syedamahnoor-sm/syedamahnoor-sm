@@ -13,9 +13,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-syeda--mahnoor-6d28d9?style=for-the-badge&logoColor=white)](https://syedamahnoor-sm-portfolio-nine.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-syeda--mahnoor--sm-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedamahnoor-sm-sm)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-syeda--mahnoor-6d28d9?style=for-the-badge&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syeda--mahnoor--sm-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedamahnoor9e@gmail.com)
 
 </div>
 
@@ -37,7 +37,7 @@ const mahnoor = {
 - 🌱 Actively learning **Python, Machine Learning & LLM integrations**
 - 💡 I love turning complex problems into clean, elegant solutions
 - 🎯 Goal: Bridge the gap between **robust web engineering** and **intelligent systems**
-- 📫 Let's connect → [LinkedIn](https://linkedin.com/in/syedamahnoor-sm-sm) | [Portfolio](https://syedamahnoor-sm-portfolio-nine.vercel.app)
+- 📫 Let's connect → [LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm) | [Portfolio](https://syeda-mahnoor-portfolio-nine.vercel.app/)
 
 ---
 
