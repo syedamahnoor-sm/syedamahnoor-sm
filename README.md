@@ -62,10 +62,14 @@ const mahnoor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d1117" />
+
 <br/>
-<img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
 
 ---
