@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Wave Banner with Name & Title -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Syeda%20Mahnoor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20%26%20Data%20Science%20Explorer&descAlignY=58&descSize=17&descColor=c4b5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Syeda%20Mahnoor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20%26amp%3B%20Data%20Science%20Explorer&descAlignY=58&descSize=17&descColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
 <!-- Developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" />
 
 <br/><br/>
 
