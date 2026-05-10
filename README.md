@@ -1,14 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6d28d9&height=200&section=header&text=Syeda%20Mahnoor&fontSize=70&animation=fadeIn&fontAlignY=40" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;UI%2FUX+Design+Enthusiast;Exploring+AI+%26+Data+Science" alt="roles" />
+<!-- Wave Banner with Name & Title -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Syeda%20Mahnoor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20%26%20Data%20Science%20Explorer&descAlignY=58&descSize=17&descColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
+<!-- Developer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+
+<br/><br/>
+
+<!-- Stat Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=syedamahnoor-sm&label=PROFILE+VIEWS&color=6d28d9&style=flat-square)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/syedamahnoor-sm?label=FOLLOWERS&style=flat-square&color=6d28d9)
+&nbsp;
+![Focus](https://img.shields.io/badge/FOCUS-MERN%20%26%20AI-a78bfa?style=flat-square)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4ade80?style=flat-square)
+
+<br/><br/>
+
+<!-- Social Links -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6d28d9?style=for-the-badge&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedamahnoor9e@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
@@ -16,10 +32,21 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on **Production-grade MERN projects** - 🎨 Diving deep into **Modern UI/UX Design** and **Motion Design**
-- 🌱 Learning **Python, Machine Learning & LLM integrations**
-- 💡 Passionate about turning complex logic into clean, elegant interfaces
-- 🎯 Goal: Bridging the gap between **Robust Engineering** and **Intelligent Design**
+```ts
+const mahnoor = {
+  role        : "Full Stack Developer",
+  exploring   : ["Data Science", "Generative AI", "Intelligent Systems"],
+  stack       : ["React", "Node.js", "Express", "MongoDB"],
+  currentFocus: "Building production-grade web apps + diving deep into AI/ML",
+  funFact     : "I debug with coffee ☕ and ship with confidence 🚀",
+};
+```
+
+- 🔭 Currently working on **full-stack MERN projects** with a growing interest in **AI-powered applications**
+- 🌱 Actively learning **Python, Machine Learning & LLM integrations**
+- 💡 I love turning complex problems into clean, elegant solutions
+- 🎯 Goal: Bridge the gap between **robust web engineering** and **intelligent systems**
+- 📫 Let's connect → [LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm) | [Portfolio](https://syeda-mahnoor-portfolio-nine.vercel.app)
 
 ---
 
@@ -27,37 +54,80 @@
 
 <div align="center">
 
-| **Domain** | **Tools & Technologies** |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,figma&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" /> |
-| **AI/Data** | <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" /> |
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+<br/>
+<sub><b>React &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; Tailwind CSS</b></sub>
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+<br/>
+<sub><b>Node.js &nbsp;&nbsp;&nbsp; Express.js &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Postman</b></sub>
+
+<br/><br/>
+
+### 🤖 AI / Data Science <sub>(Learning)</sub>
+
+<img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" />
+<br/>
+<sub><b>Python &nbsp;&nbsp;&nbsp; Jupyter Notebook</b></sub>
+
+<br/><br/>
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
+<br/>
+<sub><b>Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render</b></sub>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&background=0d1117" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedamahnoor-sm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahnoor-sm&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&bg_color=0d1117" width="60%" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedamahnoor-sm&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=syedamahnoor-sm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> 💡 *A few things I've built — check pinned repos for the latest!*
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **🌐 Portfolio Website** | Personal portfolio with smooth animations & responsive design | React, Tailwind, Vercel | [Live →](https://syeda-mahnoor-portfolio-nine.vercel.app) |
+| **🚧 Project 2** | *(Add your project description here)* | *(Your stack)* | [Repo →](#) · [Live →](#) |
+| **🚧 Project 3** | *(Add your project description here)* | *(Your stack)* | [Repo →](#) · [Live →](#) |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedamahnoor-sm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=f472b6)
 
@@ -65,12 +135,30 @@
 
 ---
 
+## 🌱 Currently Exploring
+
+```
+📌  Machine Learning fundamentals & model training
+📌  Generative AI — LLMs, prompt engineering & RAG pipelines
+📌  Python for data analysis & intelligent system design
+📌  Integrating AI features into production web apps
+```
+
+---
+
 <div align="center">
 
 ### 💬 Let's Build Something Great Together
 
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://syeda-mahnoor-portfolio-nine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-mahnoor-sm)
+
+<br/>
+
 ![Visitors](https://komarev.com/ghpvc/?username=syedamahnoor-sm&label=Profile%20Views&color=6d28d9&style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%92%9C;Happy+Coding!" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 
 </div>
