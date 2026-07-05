@@ -74,16 +74,6 @@ const mahnoor = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=syedamahnoor-sm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 > 💡 *A few things I've built!*
@@ -92,7 +82,7 @@ const mahnoor = {
 |--------|-------------|-------|-------|
 | **🌐 Portfolio Website** | Personal portfolio with smooth animations & responsive design | React, Tailwind, Vercel | [Repo →](https://github.com/syedamahnoor-sm/syeda-mahnoor-portfolio) · [Live →](https://syeda-mahnoor-portfolio-nine.vercel.app) |
 | **🔗 Connectify** | Full-stack social media platform with real-time interaction, post sharing & modern responsive UI | MongoDB, Express, React, Node.js, Tailwind, Cloudinary, JWT | [Repo →](https://github.com/syedamahnoor-sm/Connectify) · [Live →](https://connectify-gray.vercel.app) |
-| **✅ TaskFlow** | Responsive task management app with secure auth, CRUD operations & efficient task tracking | MongoDB, Express, React, Node.js, Redux, Tailwind, JWT | [Repo →](https://github.com/syedamahnoor-sm/todo-mern) · [Live →](https://todo-mern-lime-sigma.vercel.app) |
+| **✅ TaskManager** | Responsive task management app with secure auth, CRUD operations & efficient task tracking | MongoDB, Express, React, Node.js, Redux, Tailwind, JWT | [Repo →](https://github.com/syedamahnoor-sm/todo-mern) · [Live →](https://todo-mern-lime-sigma.vercel.app) |
 | **🎵 Spotify Clone** | Spotify-inspired music streaming UI with playlist interactions & audio controls | JavaScript, HTML5, CSS3 | [Repo →](https://github.com/syedamahnoor-sm/spotify-clone) · [Live →](https://spotify-clone-lac-xi.vercel.app) |
 | **🤖 VidSnapAI** | AI-powered short-form video & reel generator with automated voice synthesis & media processing | Python, Flask, FFmpeg, ElevenLabs API, JavaScript | [Repo →](https://github.com/syedamahnoor-sm/VidSnapAI) · [Live →](http://vidsnapai-ln8l.onrender.com) |
 
