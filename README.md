@@ -77,7 +77,7 @@ const mahnoor = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=syedamahnoor-sm&hide_border=true&background=FFF5FB&stroke=F0C0D8&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8)
+![GitHub Streak](https://demolab.com)
 
 </div>
 
