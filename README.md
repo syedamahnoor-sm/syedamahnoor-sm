@@ -61,7 +61,26 @@ const mahnoor = {
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=syedamahnoor-sm&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedamahnoor-sm&theme=rose_pine" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedamahnoor-sm&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedamahnoor-sm&theme=rose_pine" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedamahnoor-sm&theme=rose_pine" width="32%"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=syedamahnoor-sm&hide_border=true&background=FFF5FB&stroke=F0C0D8&ring=E060A0&fire=FF6090&currStreakLabel=C060A0&sideNums=9060B0&sideLabels=C090C0&dates=C0A0C8)
+
+</div>
+
 
 ---
 
