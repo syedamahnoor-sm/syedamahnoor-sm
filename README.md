@@ -77,7 +77,7 @@ const mahnoor = {
 
 <div align="center">
 
-![GitHub Streak](https://demolab.com)
+<img src="https://streak-stats.demolab.com?user=syedamahnoor-sm&theme=rose-pine&hide_border=true" width="100%"/>
 
 </div>
 
