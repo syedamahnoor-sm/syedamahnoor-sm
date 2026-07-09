@@ -77,7 +77,7 @@ const mahnoor = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=syedamahnoor-sm&theme=rose-pine&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=syedamahnoor-sm&theme=rose-pine&hide_border=true" width="60%"/>
 
 </div>
 
