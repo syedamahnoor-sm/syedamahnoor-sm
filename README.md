@@ -1,382 +1,153 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Syeda%20Mahnoor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=58&descSize=17&descColor=c4b5fd&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Syeda Mahnoor">
+</picture>
 
-<!-- Developer GIF -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="260">
+<h3>Software Engineering Student · Full-Stack Developer · Applied AI</h3>
 
-<br/>
+<p>I build full-stack products and AI systems that show their evidence: grounded answers, server-side checks, and clearly documented limits.</p>
 
-<!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=syedamahnoor-sm&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/syedamahnoor-sm?label=FOLLOWERS&style=for-the-badge&color=6d28d9" alt="Followers"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%2B%20AI-a78bfa?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-4ade80?style=for-the-badge" alt="Status"/>
-</p>
-
-<br/>
-
-<!-- Social Links -->
-<p>
-  <a href="https://syeda-mahnoor-portfolio-nine.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6d28d9?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/syeda-mahnoor-sm">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Quick nav -->
-<p>
-  <a href="#-about-me">About</a> •
-  <a href="#-experience">Experience</a> •
-  <a href="#️-technical-skills">Skills</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-activity">Activity</a> •
-  <a href="#-lets-connect">Connect</a>
+  <a href="https://syeda-mahnoor-portfolio-nine.vercel.app"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/syeda-mahnoor-sm"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="#featured-projects"><b>Projects</b></a>
 </p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3" />
+<br>
 
-## 👩‍💻 About Me
+## About
 
-I'm a **Software Engineering student and Full-Stack Developer** with hands-on experience building web applications using the **MERN stack** and an increasing focus on **Artificial Intelligence and Machine Learning**.
+I'm a Software Engineering student at **Lahore Garrison University**, based in Lahore, Pakistan. I work across the stack, from React and Next.js frontends to Node.js and FastAPI services backed by PostgreSQL and MongoDB, and I increasingly build **applied AI**: retrieval-augmented generation, agent workflows with LangGraph and n8n, computer vision, and speech.
 
-My recent work goes beyond integrating AI APIs into applications. I've been working with **computer vision, machine learning model training and evaluation, speech recognition, multimodal AI systems, and agentic AI workflows**.
+I care about software that is honest about what it knows. My projects cite their sources, keep scoring and grading on the server, and write down their limitations.
 
-I enjoy building projects where software engineering and AI come together to solve practical problems.
+- **Focus:** full-stack web applications · RAG and agentic workflows · applied ML
+- **Open to:** opportunities in full-stack development, AI/ML, and software engineering
 
-```ts
-const mahnoor = {
-  education: "Software Engineering",
-  focus: ["Full-Stack Development", "AI/ML", "Computer Vision", "Agentic AI"],
-
-  web: [
-    "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "REST APIs"
-  ],
-
-  ai: [
-    "Python",
-    "Scikit-learn",
-    "TensorFlow / Keras",
-    "MediaPipe",
-    "Faster-Whisper",
-    "LangGraph",
-    "Gemini"
-  ],
-
-  currentlyBuilding: [
-    "AI-powered applications",
-    "Full-stack systems",
-    "Intelligent developer tools"
-  ],
-
-  goal: "Build intelligent software that combines strong engineering with practical AI"
-};
-```
+## Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-- 🤖 Building projects involving **Machine Learning, Computer Vision, Speech AI & Agentic AI**
-- 💻 Experienced with **MERN-based full-stack application development**
-- 🧠 Interested in designing systems where **traditional ML and Generative AI work together**
+### CyberSage
+
+<sub>Cybersecurity AI assistant that shows its sources</sub>
+
+Answers questions on cybersecurity policy and NIST guidance with citations to the exact PDF page, and declines when the evidence is thin.
+
+- LangGraph agent that routes between RAG and risk scoring
+- pgvector retrieval with quote and citation checks
+- Tested with pytest, Vitest, Playwright, and axe
+
+<sub>Next.js · FastAPI · LangGraph · PostgreSQL · pgvector · Groq</sub>
+
+[Repository](https://github.com/syedamahnoor-sm/cybersage) · [Demo guide](https://github.com/syedamahnoor-sm/cybersage/blob/main/docs/demo-guide.md)
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-- 🔬 Exploring **model training, evaluation, multimodal AI and intelligent systems**
-- 🚀 Interested in **AI/ML, Full-Stack and Software Engineering opportunities**
-- 📍 Based in **Lahore, Pakistan** &nbsp;·&nbsp; 📫 [Connect on LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm)
+### BugLab
+
+<sub>Debugging practice built on simulated production incidents</sub>
+
+Learners read code, logs, and network traffic to trace a simulated outage, then submit a root-cause diagnosis that the server grades.
+
+- 30 challenges, with answer keys kept on the server
+- Monaco workspace with logs, network, and notes
+- Two-person team: I owned product and frontend
+
+<sub>Next.js · TypeScript · Monaco · Better Auth · PostgreSQL</sub>
+
+[Repository](https://github.com/syedamahnoor-sm/buglab) · [Live demo](https://buglab-one.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PresentAI Coach
+
+<sub>Presentation coaching with vision, speech, and agentic AI</sub>
+
+Analyzes posture, gestures, eye contact, and speech from a live camera session or an uploaded video, then turns the results into coaching.
+
+- Posture model: 74.7% accuracy, 80.7% ROC-AUC
+- Faster-Whisper pace and filler-word analysis
+- LangGraph and Gemini coach that critiques its own advice
+
+<sub>Python · MediaPipe · OpenCV · scikit-learn · LangGraph · Streamlit</sub>
+
+[Repository](https://github.com/syedamahnoor-sm/PresentAI-Coach) · [Live demo](https://presentai-coach.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
+### EventNexus
+
+<sub>Campus event platform for students and organizers</sub>
+
+Students discover and register for university events. Organizers publish events, build registration forms, and manage participants.
+
+- Session auth, CSRF protection, and role checks
+- MongoDB transactions for seat reservations
+- Custom registration form builder
+
+<sub>React · Express · MongoDB · Mongoose · Tailwind CSS</sub>
+
+[Repository](https://github.com/syedamahnoor-sm/EventNexus) · [Live demo](https://event-nexus-one.vercel.app)
 
 </td>
 </tr>
 </table>
 
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
+### More Projects
 
----
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| [**MeritLens**](https://github.com/syedamahnoor-sm/meritlens) | RAG recruitment assistant that assesses resumes against job requirements, with human review kept in the loop | n8n · Gemini · PostgreSQL + pgvector · Docker |
+| [**Connectify**](https://github.com/syedamahnoor-sm/Connectify) · [Live demo](https://connectify-gray.vercel.app) | Social platform with posts, follows, and real-time chat and notifications | React · Node.js · MongoDB · Socket.io · Cloudinary |
+| [**Ember Studio**](https://github.com/syedamahnoor-sm/higgsfield-reimagined) · [Live demo](https://higgsfield-reimagined.vercel.app) | Creative-AI product redesign organized around creator workflows, with image, voice, and transcription | Next.js · TypeScript · Tailwind · Cloudflare Workers AI |
+| [**SpecWise**](https://github.com/syedamahnoor-sm/specwise-ai) | Requirements-engineering API that interviews users with Gemini-generated clarification questions *(in progress)* | n8n · Gemini · PostgreSQL |
+| [**FlowPilot**](https://github.com/syedamahnoor-sm/flowpilot-ai) | Team workflow automation for blocker analysis, overdue reminders, and weekly AI progress reports | n8n · Gemini · Google Sheets · Gmail |
+| [**VidSnapAI**](https://github.com/syedamahnoor-sm/VidSnapAI) | Turns images and text prompts into narrated vertical reels | Flask · SQLite · Edge-TTS · FFmpeg |
+| [**California House Prices**](https://github.com/syedamahnoor-sm/california-house-price-prediction) | Regression pipeline with preprocessing, cross-validation, and Random Forest | scikit-learn · pandas · NumPy |
 
-## 💼 Experience
+## Tech Stack
 
-<table>
-<tr>
-<td width="60">🏢</td>
-<td>
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
+| **Frontend** | React · Next.js · Tailwind CSS · Vite |
+| **Backend** | Node.js · Express · FastAPI · Flask · REST APIs · Socket.io |
+| **Data** | PostgreSQL · pgvector · MongoDB · SQLite |
+| **Applied AI** | RAG · LangGraph · Gemini · Groq · Sentence Transformers · Faster-Whisper |
+| **ML & Vision** | scikit-learn · MediaPipe · OpenCV · pandas · NumPy |
+| **Automation & Delivery** | n8n · Docker · Vercel · Render · Streamlit Cloud |
+| **Testing** | Playwright · Vitest · pytest · node:test |
 
-**Web Developer Intern — Arch Technologies**
-
-Worked on practical web-development tasks and gained experience in professional software-development workflows.
-
-**Areas of Experience:** Frontend development · Responsive web interfaces · JavaScript-based applications · Web development workflows · Collaborative development practices
-
-</td>
-</tr>
-</table>
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| 💬 **Languages** | Python · JavaScript · TypeScript · Java · HTML · CSS |
-| 🎨 **Frontend** | React.js · Tailwind CSS · Responsive UI |
-| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
-| 🗄️ **Databases** | MongoDB |
-| 🧠 **AI / ML** | Scikit-learn · TensorFlow · Keras · Random Forest · Model Evaluation |
-| 👁️ **Computer Vision** | OpenCV · MediaPipe · Pose Estimation · Image Classification |
-| 🎙️ **Speech AI** | Faster-Whisper · Speech Transcription · Audio Processing |
-| 🤖 **Generative / Agentic AI** | LangGraph · LangChain · Google Gemini · Structured LLM Outputs |
-| 📊 **Data & Experimentation** | Pandas · NumPy · Jupyter |
-| 🔧 **Tools & Deployment** | Git · GitHub · VS Code · Postman · Vercel · Render · Streamlit |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,express,mongodb,html,css,tailwind,tensorflow,git,github,vscode,postman&theme=dark" />
-
-</div>
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-*Selected projects demonstrating my work across **AI/ML, intelligent systems and full-stack software development**.*
-
-</div>
-
-<br/>
-
-### 🎤 PresentAI Coach
-**Multimodal Agentic AI Presentation Coaching System**
-
-An AI-powered presentation coaching platform that analyzes a presenter's **posture, gestures, eye contact and speech delivery**, then uses an agentic AI workflow to transform those measurements into personalized coaching.
-
-<table>
-<tr>
-<td>
-
-**Key Highlights**
-- 🧍 ML-based posture classification using a custom **Random Forest model**
-- 👁️ MediaPipe-based pose and facial landmark analysis
-- 👋 Temporal gesture analysis
-- 🎙️ Speech recognition using **Faster-Whisper**
-- 📊 Speech pace, filler-word, pause and fluency analysis
-
-</td>
-<td>
-
-- 🎥 Real-time browser camera and microphone analysis using **WebRTC**
-- ☁️ Uploaded presentation-video analysis
-- 🤖 Multi-step **LangGraph agentic coaching workflow**
-- 🧠 **Google Gemini** for personalized coaching
-- 🔍 AI critic/revision stage for coaching quality
-- 📈 Group-safe ML evaluation and performance visualizations
-- ☁️ Deployed using **Streamlit Community Cloud**
-
-</td>
-</tr>
-</table>
-
-**Posture Model Evaluation**
-
-<p>
-  <img src="https://img.shields.io/badge/Accuracy-74.7%25-6d28d9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Macro%20F1-74.5%25-6d28d9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ROC--AUC-80.7%25-6d28d9?style=flat-square"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cfastapi%2Cpostgres%2Cmongodb%2Cdocker%2Ctailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cfastapi%2Cpostgres%2Cmongodb%2Cdocker%2Ctailwind&theme=light">
+    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cfastapi%2Cpostgres%2Cmongodb%2Cdocker%2Ctailwind&theme=light" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Docker, Tailwind CSS">
+  </picture>
 </p>
 
-**Tech Stack**
+## Experience & Education
 
-`Python` `MediaPipe` `OpenCV` `Scikit-learn` `Faster-Whisper` `LangGraph` `Gemini` `Streamlit` `WebRTC`
+- **Experience:** MERN Stack Intern, Falcon Nova Solutions *(formerly Falcon Solutions Pvt. Ltd.)*
+- **Education:** Software Engineering, Lahore Garrison University
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/syedamahnoor-sm/PresentAI-Coach)
+## Connect
 
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
+I'm happy to talk about full-stack development, applied AI, or opportunities to build together.
 
----
-
-### 🧩 DevForge
-**Developer Collaboration & Project Management Platform** — <img src="https://img.shields.io/badge/status-in%20development-f59e0b?style=flat-square"/>
-
-A full-stack developer workspace designed to bring software-project management and developer collaboration tools into a unified platform.
-
-<table>
-<tr>
-<td>
-
-**Planned / Implemented Areas**
-- 🔐 Authentication and authorization
-- 👥 Organizations and teams
-- 🛡️ Role-based permissions
-- 📁 Project management
-- 📋 Kanban workflows
-
-</td>
-<td>
-
-- 📝 Tasks and issues
-- 💬 Comments and notifications
-- 📚 Wiki and project documentation
-- 💻 Code snippets
-- 🔎 Global search
-- 📊 Project dashboards
-
-</td>
-</tr>
-</table>
-
-The project is being developed with a structured backend architecture using **TypeScript, Express, MongoDB, Zod and JWT authentication**.
-
-**Tech Stack**
-
-`TypeScript` `Node.js` `Express.js` `MongoDB` `Zod` `JWT` `REST APIs`
-
-> 🚧 Currently under active development.
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-### 🔗 Connectify
-**Full-Stack Social Media Platform**
-
-A MERN-based social platform built around user interaction, content sharing and a responsive modern interface.
-
-**Key Highlights**
-- 🔐 Authentication and authorization
-- 👤 User profiles
-- 📝 Post creation and sharing
-- 💬 Social interactions
-- ☁️ Cloud-based media handling
-- 📱 Responsive interface
-- 🔗 Full frontend/backend integration
-
-**Tech Stack**
-
-`MongoDB` `Express.js` `React.js` `Node.js` `Tailwind CSS` `Cloudinary` `JWT`
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/syedamahnoor-sm/Connectify)
-[![Live](https://img.shields.io/badge/Live-Demo-6d28d9?style=for-the-badge&logo=vercel)](https://connectify-gray.vercel.app)
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-### 🤖 VidSnapAI
-**AI-Powered Short-Form Video Generator**
-
-An AI-assisted application for generating short-form video content by combining automated voice synthesis and media-processing workflows.
-
-**Key Highlights**
-- 🤖 AI-assisted content generation workflow
-- 🔊 Automated voice synthesis
-- 🎞️ FFmpeg-based media processing
-- 🌐 Flask backend
-- 🎬 Automated short-form video generation
-
-**Tech Stack**
-
-`Python` `Flask` `FFmpeg` `ElevenLabs API` `JavaScript`
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/syedamahnoor-sm/VidSnapAI)
-[![Live](https://img.shields.io/badge/Live-Demo-6d28d9?style=for-the-badge)](http://vidsnapai-ln8l.onrender.com)
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 🧠 What I'm Currently Exploring
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🤖 Agentic AI systems and multi-step AI workflows | 📚 Retrieval-Augmented Generation (RAG) |
-| 🧠 Machine Learning model development and evaluation | ⚙️ Production-oriented AI application architecture |
-| 👁️ Computer Vision and pose-based intelligent systems | 🌐 Combining AI systems with modern full-stack applications |
-| 🎙️ Speech AI and multimodal applications | |
-
-</div>
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedamahnoor-sm&theme=tokyonight" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedamahnoor-sm&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedamahnoor-sm&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedamahnoor-sm&theme=tokyonight" width="32%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=syedamahnoor-sm&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedamahnoor-sm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=f472b6)
-
-</div>
-
-<div align="right"><a href="#readme-top">↑ back to top</a></div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in opportunities and collaborations involving:
-
-**AI/ML · Full-Stack Development · Computer Vision · Agentic AI · Intelligent Applications**
-
-<br/>
-
-<a href="https://syeda-mahnoor-portfolio-nine.vercel.app">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/syeda-mahnoor-sm">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-
-</div>
+[Portfolio](https://syeda-mahnoor-portfolio-nine.vercel.app) · [LinkedIn](https://linkedin.com/in/syeda-mahnoor-sm) · [GitHub](https://github.com/syedamahnoor-sm)
