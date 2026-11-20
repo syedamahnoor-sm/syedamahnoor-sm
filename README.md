@@ -141,6 +141,24 @@ Students discover and register for university events. Organizers publish events,
   </picture>
 </p>
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=syedamahnoor-sm&hide_border=true&border_radius=12&background=13112B&stroke=2E2A5C&ring=A78BFA&fire=A78BFA&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9D96C7&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=syedamahnoor-sm&hide_border=true&border_radius=12&background=F7F5FF&stroke=E4DEFC&ring=6D28D9&fire=6D28D9&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=5B21B6&sideLabels=5B21B6&dates=6B6893&disable_animations=true">
+    <img src="https://streak-stats.demolab.com?user=syedamahnoor-sm&hide_border=true&border_radius=12&background=F7F5FF&stroke=E4DEFC&ring=6D28D9&fire=6D28D9&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=5B21B6&sideLabels=5B21B6&dates=6B6893&disable_animations=true" width="495" alt="GitHub streak stats for syedamahnoor-sm: total contributions, current streak, and longest streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=syedamahnoor-sm&bg_color=13112B&color=C4B5FD&title_color=F5F3FF&line=A78BFA&point=F5F3FF&area=true&area_color=A78BFA&hide_border=true&radius=12&custom_title=Contribution%20Activity">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=syedamahnoor-sm&bg_color=F7F5FF&color=5B21B6&title_color=1E1B4B&line=6D28D9&point=1E1B4B&area=true&area_color=6D28D9&hide_border=true&radius=12&custom_title=Contribution%20Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedamahnoor-sm&bg_color=F7F5FF&color=5B21B6&title_color=1E1B4B&line=6D28D9&point=1E1B4B&area=true&area_color=6D28D9&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph for syedamahnoor-sm over the last 31 days">
+  </picture>
+</p>
+
 ## Experience & Education
 
 - **Experience:** MERN Stack Intern, Falcon Nova Solutions *(formerly Falcon Solutions Pvt. Ltd.)*
